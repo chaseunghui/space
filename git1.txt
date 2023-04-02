@@ -11,3 +11,5 @@ confilct 충돌을 해결하고 취합을 다했다.
 window gPS C:\vscodegit> git branch -M master
 PS C:\vscodegit> git branch
 * master
+
+macmac first push
