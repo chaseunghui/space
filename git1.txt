@@ -2,3 +2,6 @@
 dsd
 dfdfdf
 FEFEFdfdf
+window gPS C:\vscodegit> git branch -M master
+PS C:\vscodegit> git branch
+* master
