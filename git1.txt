@@ -6,3 +6,5 @@ mac say
 dfdfdf
 FEFEFdfdf
 >>>>>>> 0a1bbc3947b084446959b24f95a5396dc5baffb9
+ㅇㅈㅇㅈㅇ
+confilct 충돌을 해결하고 취합을 다했다.
