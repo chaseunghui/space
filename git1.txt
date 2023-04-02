@@ -1,3 +1,8 @@
 20230401 git vscode test22 
 dsd
+<<<<<<< HEAD
 mac say
+=======
+dfdfdf
+FEFEFdfdf
+>>>>>>> 0a1bbc3947b084446959b24f95a5396dc5baffb9
