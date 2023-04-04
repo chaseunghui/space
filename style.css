@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+  
+  body {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: -0.02em;
+  }
+/*   
+  앵커는 인라인이라 디스플레이 요소가 없다 */
+  a {
+    font-size: 18px;
+    line-height: 20px;
+    color: #8492a6;
+    text-decoration: none;
+    display: block;
+    padding : 20px;
+  }
+
+  .all-tab-sub{
+    float: left;
+    margin-left: 20px;
+    list-style-type: none;
+    padding: 10px;
+  }
+
+  .all-tab-sub selected{
+    float: left;
+    margin-left: 30px;
+    list-style-type: none;
+    padding: 16 20px;
+    border-bottom: 2px solid #2860e1;
+  }
+
+/*   
+  block과 클리어를줘서 float로 인해 없어진 높이를 가질수 있게 한다. */
+  .all-tab::after{
+    content: '';
+    display: block;
+    clear: left;
+  }
+
+  /*
+  ul의 기본적 패딩크기를 없어지게 만들도록 padding-left: 0px;
+  */
+  .all-tab{
+    padding-left: 0px;
+  }
+
+
+
+
+  
+  /* ▼ WHERE YOUR CODE BEGINS */
