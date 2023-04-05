@@ -1,12 +1,1 @@
-위의 내용은 맥브런치에서 왔고 여기는 tt2 브런치로 만들어서 왔습니다.
-파일이 언트랙된 상태 이전 브랜치에서 커밋안하고 왔습니다.
-
-mac_branch에서 수정 
-
-tt2 입니다. 충돌 발생예정.
-
-fast-forward 해볼예정입니다.
-dfdfdfdd
-
-FEFEFdfdfdfdf
-dfdfdf
+새롭게
