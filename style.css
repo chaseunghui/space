@@ -15,23 +15,26 @@
     color: #8492a6;
     text-decoration: none;
     display: block;
-    padding : 20px;
+    padding : 16px;
   }
 
   .all-tab-sub{
     float: left;
-    margin-left: 20px;
+    padding : 16 20px; 
     list-style-type: none;
-    padding: 10px;
   }
 
-  .all-tab-sub selected{
+  .all-tab-sub.selected{
     float: left;
-    margin-left: 30px;
     list-style-type: none;
     padding: 16 20px;
     border-bottom: 2px solid #2860e1;
+    border-bottom: 2px solid #2860e1;
+  } 
+  .all-tab-sub.selected a{
+    color : blue;
   }
+
 
 /*   
   block과 클리어를줘서 float로 인해 없어진 높이를 가질수 있게 한다. */
@@ -46,6 +49,7 @@
   */
   .all-tab{
     padding-left: 0px;
+    width:540px;
   }
 
 
